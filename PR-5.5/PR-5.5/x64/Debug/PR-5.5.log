@@ -1,2 +1,2 @@
 ﻿  pr-5.5.cpp
-  PR-5.5.vcxproj -> E:\1 Семестр\Алгоритмізація та програмування\Л.Р.-5.5\PR-5.5\x64\Debug\PR-5.5.exe
+E:\1 Семестр\Алгоритмізація та програмування\Л.Р.-5.5\PR-5.5\PR-5.5\pr-5.5.cpp(10,9): error C2082: redefinition of formal parameter 'n'
